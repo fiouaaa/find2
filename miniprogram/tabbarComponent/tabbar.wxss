@@ -37,7 +37,7 @@
     position: relative;
 }
 .tabbar_icon{
-    width: 56rpx;
+    width: 66rpx;
     height: 56rpx;
 }
 .special-wrapper{

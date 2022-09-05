@@ -3,6 +3,6 @@
     "tabbar": "../../tabbarComponent/tabbar",
     "my-list" : "../../components/list/list"
   },
-  "navigationBarTitleText": "寻物失招广场",
+  "navigationBarTitleText": "一定会找到",
   "enablePullDownRefresh": true
 }
