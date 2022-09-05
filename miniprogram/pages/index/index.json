@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tabbar": "../../tabbarComponent/tabbar",
+    "my-list" : "../../components/list/list"
+  },
+  "navigationBarTitleText": "寻物失招广场",
+  "enablePullDownRefresh": true
+}

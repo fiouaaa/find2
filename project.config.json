@@ -1,0 +1,86 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"enhance": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"appid": "wxea0e0cfe4c6892b9",
+	"projectname": "lostandfound",
+	"libVersion": "2.8.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate/",
+	"condition": {
+		"miniprogram": {
+			"list": [
+				{
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"name": "pages/mine/mine",
+					"pathName": "pages/mine/mine",
+					"query": "",
+					"scene": null
+				},
+				{
+					"name": "pages/profile/profile",
+					"pathName": "pages/profile/profile",
+					"query": "",
+					"scene": null
+				},
+				{
+					"name": "pages/middle/middle",
+					"pathName": "pages/middle/middle",
+					"query": "",
+					"scene": null
+				},
+				{
+					"name": "pages/publish/publish",
+					"pathName": "pages/publish/publish",
+					"query": "type=lost",
+					"scene": null
+				},
+				{
+					"name": "pages/detail/detail",
+					"pathName": "pages/detail/detail",
+					"query": "id=f3db088f5e89a035005bf8724b734990",
+					"scene": null
+				},
+				{
+					"name": "pages/message/list",
+					"pathName": "pages/message/list",
+					"query": "id=f3db088f5e89a035005bf8724b734990",
+					"scene": null
+				},
+				{
+					"name": "pages/message/send",
+					"pathName": "pages/message/send",
+					"query": "uid=oVLd65WydG_hMT3zcqJdf9BP116M",
+					"scene": null
+				}
+			]
+		}
+	},
+	"compileType": "miniprogram",
+	"srcMiniprogramRoot": "miniprogram/",
+	"packOptions": {
+		"ignore": [],
+		"include": []
+	},
+	"editorSetting": {
+		"tabIndent": "tab",
+		"tabSize": 4
+	}
+}
