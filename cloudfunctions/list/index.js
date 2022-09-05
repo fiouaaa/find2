@@ -3,7 +3,7 @@ const cloud = require('wx-server-sdk')
 const TcbRouter = require('tcb-router')
 cloud.init({
   // API 调用都保持和云函数当前所在环境一致
-  env: cloud.DYNAMIC_CURRENT_ENV
+  env: "cloud1-5gj8ncz726c98f74"
 })
 const db = cloud.database()
 // 云函数入口函数
